@@ -1,0 +1,76 @@
+button {
+    background-color: #CE6464;
+    width: 15%;
+    height: 60px;
+    color: #CE6464;
+    border-radius: 70px;
+    border: none;
+    font-size: xx-large;
+    position: relative;
+    bottom: 200%;
+    cursor: pointer;
+    left: 1025px;
+    top: 220px;
+}
+input[type=text], input[type=password] {
+    width: 380px;
+    margin: 20px 0;
+    padding: 25px 25px;
+    background-color: #CE6464;
+    border-radius: 70px;
+    align-items: center;
+    box-sizing: border-box;
+    border: none;
+    position: relative;
+    left: 380px;
+    top: 140px;
+}
+body{
+    background-image: url("D:\REACT\hellosam\src\Crocs\pic\summer-background-crocs-coral-swimming-goggles-pink-background_209484-153 1.png");
+    background-size: 1600px 750px;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+
+}
+::placeholder{
+    color: #000000;
+    font-size: x-large;
+    opacity: 900;
+}
+.top {
+    position:absolute;
+    top: 70px;
+    right: 310px;
+    font-size: 50px;
+    font-style: Eras Demi ITC;
+    text-align: center;
+}
+.bottom {
+    position: absolute;
+    bottom: 360px;
+    left: 1190px;
+    font-size: 23px;
+    font-style: bold;
+}
+.bottom2 {
+    position: absolute;
+    bottom: 160px;
+    left: 900px;
+    font-size: 30px;
+    font-style: bold;
+}
+.bottom3 {
+    position: absolute;
+    bottom: 160px;
+    left: 1170px;
+    font-size: 30px;
+    font-style: bold;
+}
+.logo {
+        
+    position: absolute;
+    top: 675px;
+    right: 40px;
+}
+

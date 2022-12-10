@@ -1,0 +1,56 @@
+.container{
+    padding: 90px 220px;
+    width: 520px;
+    height: 380px;
+    position: fixed;
+    margin-top: 155px;
+    right: 17%;
+    background-color: #D9D9D9;
+    border: none;
+    opacity: 0.7;
+}
+.container2{
+    padding: 10px 80px;
+    width: 290px;
+    height: 70px;
+    right: 5%;
+    background-color: #7EC1DD;
+    border: none;
+    align-items: center;
+    margin-top: 300px;
+    opacity: 0.5px;
+}
+body{
+    background-image: url("D:\REACT\hellosam\public\P-2 1.png");
+    background-size: 1600px 750px;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+}
+.pic{
+    
+    position: absolute;
+    width: 190px;
+    height: 190px;
+    top: 10px;
+    right: 400px;
+}
+.top {
+    position:absolute;
+    width: 590px;
+    height: 170px;
+    top: 200px;
+    right: 200px;
+}
+.top2{
+    position:absolute;
+    width: 1090px;
+    height: 170px;
+    top: 90px;
+    right: -250px;
+}
+.logo{
+    position: absolute;
+    top: 22px;
+    right: 1290px;
+}
